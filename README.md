@@ -33,7 +33,7 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim | jikim413 | <https://jikim413.github.io/> |  
 | William Ku  | WilliamKuDS | <https://williamkuds.github.io/STAT184_Assignment1/> |
-| Ian Kwon    | iankwon23 | <https://iankwon23.github.io/.>
+| Ian Kwon    | iankwon23 | <https://iankwon23.github.io/stat184/>
 
 <br>
 
