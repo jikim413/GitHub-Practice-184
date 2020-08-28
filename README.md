@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
+| Jung In Kim             | Section 003         | jikim413test         | <https://jikim413test.github.io/Kim-Repo-Demp/>          |        
 
 
 # Integration of RStudio with Git
