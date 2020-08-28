@@ -35,7 +35,7 @@
 |Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
 | Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
+| Josiah Kim | (M, W, F) 11:15am-12:05pm  | josiahckim | <https://josiahckim.github.io/GitHub-Practice/>|
 
 
 # Integration of RStudio with Git
